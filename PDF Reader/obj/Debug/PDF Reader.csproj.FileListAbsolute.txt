@@ -1,0 +1,15 @@
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe.config
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\bin\Debug\PDF Reader.pdb
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\bin\Debug\BouncyCastle.Crypto.dll
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\bin\Debug\itextsharp.dll
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\bin\Debug\itextsharp.xml
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.AssemblyReference.cache
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.SuggestedBindingRedirects.cache
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Form1.resources
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Properties.Resources.resources
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.GenerateResource.cache
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.CoreCompileInputs.cache
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.CopyComplete
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\obj\Debug\PDF Reader.exe
+D:\Studio\Project\C, C++, C#\C#\PDF Reader\PDF Reader\obj\Debug\PDF Reader.pdb
